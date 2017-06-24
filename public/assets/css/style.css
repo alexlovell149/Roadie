@@ -71,3 +71,19 @@ img {
     border-color: #69793e;
 }
 
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1%;
+    color: #333;
+    background-color: #69793e;
+}
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: tan;
+    opacity: 4;
+}
